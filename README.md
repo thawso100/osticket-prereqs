@@ -3,12 +3,11 @@
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
-This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
+Hi there, I am Thaw, an IT Professional. Welcome to my first tutorial on setting up osTicket. This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Install osTicket with Prerequisites](https://www.youtube.com)
+<h2>What is osTicket? </h2>
+-<b>osTicket is an open-source ticketing system designed for managing customer support inquiries. It provides a platform for businesses to efficiently track, prioritize, and resolve customer issues through a centralized interface. With features like customizable ticket forms, automation, and reporting, osTicket helps streamline support operations and improve customer satisfaction.<b>
 
 <h2>Environments and Technologies Used</h2>
 
@@ -22,11 +21,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Azure Virtual Machine
+- osTicket Installation files
 
 <h2>Installation Steps</h2>
 
