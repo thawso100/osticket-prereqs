@@ -48,11 +48,21 @@ Now that our machine is ready, we will connect to it using Remote Desktop Connec
 <p>
 <img src="https://i.imgur.com/dAYYewj.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-Above there you will see the Public IP address and we are going to copy that and connect it to the remote Descktop. 
+Above there you will see the Public IP address and we are going to copy that and connect it to the remote Desktop. 
 <p>
 <img src="https://i.imgur.com/H0RUjTt.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 As of this tutorials I'm sure Mac but if you are using windnow the screen might appear slictly different. 
 </p>
+
+<p>
+  Now we are connected, let us enable IIS (Internet Information Services ) ISS is aMicrosoft web server that runs on Windows operating system and is used to exchange static and dynamic web content with internet users. IIS can be used to host, deploy, and manage web applications using technologies such as ASP.NET and PHP.
+
+Start Menu > Windows Feature > Internet Information Services > World Wide Web Services > Application Development Features > CGI
+<img src="https://i.imgur.com/rpgUYQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+
+
+
 <br />
