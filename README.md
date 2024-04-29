@@ -66,8 +66,19 @@ Start Menu > Windows Feature > Internet Information Services > World Wide Web Se
 </p>
 
 <p>
-To check weather CGI is working of not, go to the web broswer and search 127.0.0.1 and if it appear like the image below then you are all set. 
+To check whether CGI is working of not, go to the web broswer and search 
+  127.0.0.1 and if it appear like the image below then you are all set.  
 <img src="https://i.imgur.com/g1j6kIs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+first we will download Php manager from [download](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
+Then download the Rewrite Module 
+Rewrite Module 
+Create the directory C:\PHP
+
+  <img src="https://i.imgur.com/g1j6kIs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
 </p>
 
