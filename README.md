@@ -58,13 +58,17 @@ As of this tutorials I'm sure Mac but if you are using windnow the screen might 
 
 <p>
   Now we are connected, let us enable IIS (Internet Information Services ) ISS is aMicrosoft web server that runs on Windows operating system and is used to exchange static and dynamic web content with internet users. IIS can be used to host, deploy, and manage web applications using technologies such as ASP.NET and PHP.
+  
+Start Menu > Windows Feature > Internet Information Services > World Wide Web Services > Application Development Features > CGI
 
 <img src="https://i.imgur.com/rpgUYQ6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-Start Menu > Windows Feature > Internet Information Services > World Wide Web Services > Application Development Features > CGI
-
 </p>
 
+<p>
+To check weather CGI is working of not, go to the web broswer and search 127.0.0.1 and if it appear like the image below then you are all set. 
+<img src="https://i.imgur.com/g1j6kIs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
+</p>
 
 <br />
