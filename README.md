@@ -200,20 +200,27 @@ From the Installation Files, download and install <a href="https://docs.google.c
 <li>
   Create a database called “osTicket”
 </li>
-<img src="https://i.imgur.com/FXroTvy.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<img src="https://i.imgur.com/8o3kMAG.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8IMfMIo.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MZIlqwZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <p>
 Continue Setting up osticket in the browser
-MySQL Database: osTicket
-MySQL Username: root
-MySQL Password: Password1
-Click “Install Now!”
-
+<li>
+  MySQL Database: osTicket
+</li>
+<li>
+  MySQL Username: root
+</li>
+<li>
+  MySQL Password: Password1
+</li>
+<li>
+  Click “Install Now!”
+</li>
+</p>
 <img src="https://i.imgur.com/totrBJH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 
-</p>
 
 
 
