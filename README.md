@@ -102,11 +102,8 @@ Rewrite Module and Create the directory C:\PHP
 You will have to set up a root password Go to window (IIS) 
 Rightclick ( run as administrator) --> Click on PHP manager ( register) 
 Look for PHP folder --> Click on php.cgi 
-
-  <img src="https://i.imgur.com/45mdfSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-
-
 </p>
+<img src="https://i.imgur.com/45mdfSR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
   
 <p> Download  <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6"> osTicket v1.15.8 </a> 
   Install osTicket v1.15.8
